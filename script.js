@@ -88,7 +88,7 @@ function playClueSequence() {
     delay += clueHoldTime;
     delay += cluePauseTime;
   }
-  clueHoldTime = clueHoldTime - 75;
+  clueHoldTime = clueHoldTime - 85;
 }
 
 function loseGame() {
